@@ -1,0 +1,99 @@
+#area{
+    position: static;
+            text-align: center;
+    
+    
+}
+#area #formulario{
+    position: static;
+    display:inline-block;
+    position: relative;
+    
+}
+fieldset{
+    font-size: 25px;
+    background-image: linear-gradient(#7f8c8d, #7f8c8d, #bdc3c7);
+    width: 350px;
+    height: 180px;
+    padding-inline: 10px;
+    cursor:context-menu;
+    border: 3px solid black;
+    border-radius: 12px;
+}
+.campoemail{
+    background-color: white;
+    position: static;
+    border: 3px solid black;
+    border-radius: 9px;
+    text-align: center;
+    width: 180px;
+    height: 25px;
+}
+.campoemail:hover{
+    background-color: rgb(228, 228, 228);
+    position: static;
+        border: 3px solid black;
+    border-radius: 9px;
+    
+}
+.camposenha{
+    background-color: white;
+    position: static;
+    width: auto;
+    border: 3px solid black;
+    border-radius: 9px;
+    text-align: center;
+    width: 180px;
+    height: 25px;
+    
+    
+}
+.camposenha:hover{
+    background-color: rgb(228, 228, 228);
+    position: static;
+    border: 3px solid black;
+    border-radius: 9px;
+    
+}
+.botao{
+    background-color: white;
+    position: static;
+    border: 3px solid black;
+    border-radius: 9px;
+    float: right;
+    font-size: 25px;
+    
+}
+.email{
+        position: static;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.senha{
+        position: static;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.login{
+    position: static;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    font-size: 25px;
+    
+}
+.botao:hover{
+    background-color: rgb(228, 228, 228);
+    border: 3px solid black;
+    border-radius: 9px;
+    border-style: dashed;
+    bottom: 0.5em;
+    right: 10px;
+    
+    
+}
+.corpo{
+    background: #57606f;
+}
